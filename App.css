@@ -1,0 +1,43 @@
+.bgForm{
+  background-image: linear-gradient(rgb(132, 0, 255),rgb(50, 50, 248) ,rgb(52, 153, 255));
+  background-size: cover;
+  height:117vh;
+}
+.bgLogin{
+  background-image: url(https://wallpaperaccess.com/full/1431635.jpg);
+  background-size: cover;
+  height: 117vh;
+  color: rgb(2, 2, 120);
+}
+.bgD{
+  background-image: url(https://rochkirstin.com/wp-content/uploads/2019/07/traveling-in-automobile.jpg);
+  background-size: cover;
+  height: 250vh;
+}
+.tb th,.tb td{
+  border: solid 1px black;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+.boxInput:hover{
+  border:4px outset black;
+}
+.menuBar:hover{
+  border-bottom:2px solid white;
+}
+.heading:hover{
+ color:red;
+}
+.image-size{
+  height: 200px;
+  width:200px;
+}
+.bgUpdate{
+  background-image: url(./components/assest/3afa1f0066e913b8994cbcd4965725ca.jpg);
+  background-size: cover;
+  height: 250vh;
+}
+.btn:hover{
+  font-size: 150%;
+}
